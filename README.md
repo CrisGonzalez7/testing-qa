@@ -1,7 +1,23 @@
 # Testing QA
 
-En este momento me encuentro indagando en el mundo del Testing QA 
+En este momento me encuentro indagando en el mundo del Testing QA. 
 
-Los proyectos en los que estoy realizando Testing son: 
+Estoy realizando el curso asincrónico [Software Testing desde cero: MasterClass todo en 1 (2022)](https://www.udemy.com/course/software-testing-desde-cero-a-expertomasterclass-todo-en-1/) en Udemy, en el cual estoy aprendiendo:
 
-[SeguelPropiedades](https://github.com/users/veronica-gonzalez/projects/3/views/6)
+- Importancia del Software Testing
+- Rol del QA y sus responsabilidades
+- Proyectos ágiles
+- Fundamentos de Scrum, roles y eventos.
+- Fundamentos del Testing ágil: Plan de pruebas, casos y pruebas exploratorias.
+- Como reportar bugs y entender su ciclo de vida.
+- Herramientas básicas para el Testing en el 2022: 
+  - Scrum(Azure DevOps+JIRA)
+  - Gestor pruebas (TestRail)
+  - Browserstack
+  - VsCode + GIT
+- Automatización de pruebas con Selenium IDE: Funciones básicas y comandos más usados.
+
+Y posteriormente aprenderé:
+- Automatización con programación usando Node Js + Cypress.
+
+El proyecto en el que estoy aplicando lo aprendido es: [SeguelPropiedades](https://github.com/users/veronica-gonzalez/projects/3/views/6)
