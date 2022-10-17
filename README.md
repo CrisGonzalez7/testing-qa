@@ -23,6 +23,6 @@ Estoy realizando el curso asincrónico [Software Testing desde cero: MasterClass
 
 Y posteriormente aprenderé:
 - Automatización con programación usando Node Js + Cypress.
-- Pruebas de APIs
+- Pruebas de APIs.
 
 El proyecto en el que estoy aplicando lo aprendido es: [SeguelPropiedades](https://github.com/users/veronica-gonzalez/projects/3/views/6)
